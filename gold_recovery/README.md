@@ -22,6 +22,10 @@ The flotation process involves:
 #### Purification
 The rougher concentrate goes through two stages of purification, resulting in the final concentrate and new tails.
 
+### Here is a visual of the process:
+
+![Gold_Recovery_Process](https://github.com/anthony-callender/TripleTen_projects/assets/129457454/88953d04-535e-413e-8a8d-83f77e8d6293)
+
 ### Data Description
 - **Technological Process**
   - **Rougher Feed:** Raw material
