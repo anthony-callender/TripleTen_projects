@@ -1,5 +1,13 @@
 # Gold Extraction Process
 
+## Business Statement
+
+**Introduction:** This project aims to transform gold extraction for Zyfra by building an accurate recovery prediction model using historical data and advanced techniques, seeking to optimize operational efficiency in gold extraction processes.
+
+**Business Problem Statement:** The absence of a dependable predictive model hinders accurate forecasting of gold concentrate recovery, impacting resource allocation and the economic viability of extraction operations.
+
+**Business Value:** Accurate recovery predictions hold strategic importance, enabling optimized resource utilization, enhanced operational efficiency, and informed decision-making, thereby improving resource management and financial performance in gold extraction.
+
 ## Overview
 This README outlines the technological process of extracting gold from ore. It provides an insight into the stages involved, the data description, feature naming conventions, recovery calculation, and evaluation metric.
 
