@@ -36,6 +36,16 @@ Develop a predictive machine learning model to forecast customer churn effective
 
 ---
 
+## Boxplot Showing How Long Customers Stay Before Leaving
+
+![telecom](https://github.com/anthony-callender/TripleTen_projects/assets/129457454/efd60165-b150-4b81-b1a3-68a21fcbe9c8)
+
+
+This shows a minority portion of customers that have stayed for more than 2000 days (5 years)
+
+
+---
+
 ## Technologies Used
 
 - Python
