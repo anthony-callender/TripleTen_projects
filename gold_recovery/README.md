@@ -89,3 +89,6 @@ The final metric comprises both values:
 
 ![Final_sMAPE](https://github.com/anthony-callender/TripleTen_projects/assets/129457454/2f7a0b55-dbbe-4a24-a95b-d9ead3c14561)
 
+
+### Conclusion
+The model's performance on the test set, as measured by a custom sMAPE of 5.332169162564367, demonstrates a 5.25% improvement over the baseline sMAPE of 5.609281705374244. This indicates that the model's predictions exhibit a notable enhancement compared to the expected baseline, validating its success in outperforming the initial expectations set by the baseline performance.
