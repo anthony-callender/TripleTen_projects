@@ -43,6 +43,9 @@ The project code includes:
 - Observing a positive skew in the daily order distribution, indicating a healthy increase in orders over time.
 - Visualization shows a consistent increase in orders throughout the year.
 
+![taxi_sweet_lift](https://github.com/anthony-callender/TripleTen_projects/assets/129457454/a2794fc8-a9a6-4a36-ada4-f46570cedf23)
+
+
 ### Hourly Analysis
 - Average hourly orders: 84.
 - Positive peaks (outliers) correlated with weekends/holidays, indicating increased travel.
