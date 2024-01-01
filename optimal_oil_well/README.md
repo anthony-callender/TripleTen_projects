@@ -30,3 +30,17 @@ Provides a comprehensive summary of the analysis for each region, showcasing ave
 ## Conclusion
 Recommends Region 2 as the most favorable choice for oil well development due to its highest average total profit, narrower confidence interval, and lowest risk of losses compared to other regions. Regions 1 and 3 show potential but come with more uncertainties and relatively higher risks.
 
+Here are the results for Region 1
+
+![region_1](https://github.com/anthony-callender/TripleTen_projects/assets/129457454/12d46ca6-811e-4450-bc0b-073120564bf1)
+
+Here are the results for Region 2
+
+![region_2](https://github.com/anthony-callender/TripleTen_projects/assets/129457454/b0e0c3f0-e315-4032-838d-e5fd46af95e9)
+
+Here are the results for Region 3
+
+![region_3](https://github.com/anthony-callender/TripleTen_projects/assets/129457454/89359ebe-c572-4d06-93c4-e170e67017d1)
+
+
+
