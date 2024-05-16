@@ -84,7 +84,15 @@ The data was provided by Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Hua
 
 ## Conclusion
 
-The project successfully developed a system to classify movie reviews as positive or negative, achieving an F1 score above the target of 0.85. The Gradient Boosting model proved to be the most effective, highlighting the potential of ensemble methods in sentiment analysis tasks.
+Example: " even the actors looked really old and disinterested and they got paid to be in the movie what a soul "
+
+Logistic Regression with NLTK Preprocessing: This approach consistently provides relatively higher sentiment scores for both positive and negative statements, with the specific example yielding a score of 0.19 for a negative sentiment statement. It shows a tendency to emphasize sentiment nuances effectively.
+
+Logistic Regression with spaCy Preprocessing: Similarly to the NLTK-based approach, this method yields consistent sentiment scores, albeit slightly lower for the given example. It maintains a balance between capturing sentiment nuances and providing coherent predictions.
+
+LightGBM Classifier Model: The LightGBM model generally assigns more uniform sentiment scores, but the specific example of a negative statement receiving a score of 0.62 indicates that it may not align with human intuition as closely as the logistic regression models.
+
+In conclusion, the Logistic Regression models, particularly with NLTK preprocessing, offer more consistent sentiment predictions, while the LightGBM model tends to provide less consistent sentiment scores and may require further optimization to match the performance of the logistic regression models.
 
 ## Acknowledgements
 
